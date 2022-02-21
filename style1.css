@@ -1,0 +1,57 @@
+body{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size:large;
+background-color:snow;
+opacity: 0.9;
+border: 2px solid blue;
+border-radius: 15px;
+}
+
+head{
+
+}
+
+header{
+
+}
+
+footer{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+    padding: 10px;
+    border: 2px solid grey ;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+h1{ 
+    font-family:fantasy;
+    font-size:x-large ;
+    color:rgb(48, 42, 42);
+    font-style:italic;
+}
+
+p{ 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-style:italic;
+    padding: 5px;
+    line-height: 50px;
+}
+a { 
+    color: blue;
+
+}
+nav {
+    padding: 10px;
+    border-color: black;
+    border-radius: 5px;
+    
+}
+
+.current {
+    color:red;
+    padding: 15px;
+    border-radius: 20px;
+    background-color:azure;
+}
